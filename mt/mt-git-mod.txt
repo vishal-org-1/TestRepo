@@ -1,4 +1,1 @@
-line one
-line two
-line three
-mt-git-mod v1
+mt-git-mod v2
